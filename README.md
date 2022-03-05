@@ -6,14 +6,17 @@ THIS .BAT WINDOWS BATCHFILE AUTO OPENS A WEBSITE AND ENTERS USERNAME AND PASSWOR
 
 
 
-
-<img width="105" alt="image" src="https://user-images.githubusercontent.com/58194115/156857930-6b97ad71-56ad-4d4a-ad00-8dda1e9ca25a.png">
-
+<img width="88" alt="image" src="https://user-images.githubusercontent.com/58194115/156858649-09fc2365-bc4f-4ee2-858f-a6065dfd7d61.png">
 
 
 
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/58194115/156858704-56c50133-c7b0-4c13-b3af-4e06404e1e6c.png">
 
-<img width="614" alt="image" src="https://user-images.githubusercontent.com/58194115/156858000-0a4efb5f-386a-4193-bfb3-8e22a8cb973c.png">
+
+
+<img width="47" alt="image" src="https://user-images.githubusercontent.com/58194115/156858723-861a858f-7552-4427-9b56-b9d8827920c2.png">
+
+
 
 CTRL + S to save file
