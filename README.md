@@ -8,7 +8,7 @@ THIS .BAT WINDOWS BATCHFILE AUTO OPENS A WEBSITE AND ENTERS USERNAME AND PASSWOR
 
 <img width="88" alt="image" src="https://user-images.githubusercontent.com/58194115/156858649-09fc2365-bc4f-4ee2-858f-a6065dfd7d61.png">
 
-
+Name this anything(DO NOT INCLUDE .BAT AT THE END OF THIS FILE YET)
 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/58194115/156858704-56c50133-c7b0-4c13-b3af-4e06404e1e6c.png">
