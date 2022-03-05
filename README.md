@@ -1,7 +1,7 @@
 # Autologin.bat
 THIS .BAT WINDOWS BATCHFILE AUTO OPENS A WEBSITE AND ENTERS USERNAME AND PASSWORD AND LOGS IN
 
-Easier way
+Method 1
 
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/58194115/156859044-21fe7104-4397-485b-827b-9af8f085b825.png">
 
