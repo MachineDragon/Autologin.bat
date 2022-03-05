@@ -18,10 +18,9 @@ File  > Save as
 
 
 
-Now put .bat at the end of the file name
+Now put .bat at the end of the file name and save
 
 <img width="47" alt="image" src="https://user-images.githubusercontent.com/58194115/156858723-861a858f-7552-4427-9b56-b9d8827920c2.png">
 
 
 
-CTRL + S to save file
